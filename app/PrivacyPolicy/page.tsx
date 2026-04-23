@@ -3,12 +3,12 @@ import React from 'react';
 const PrivacyPolicy = () => {
     return (
         <div className="max-w-[1200px] mx-auto p-4 font-sans text-[#2d3748]">
-            {/* Asosiy Sarlavha */}
+         
             <h1 className="text-[42px] font-bold mb-8 leading-tight tracking-tight">
                 Политика конфиденциальности
             </h1>
 
-            {/* Ma'lumot bloki (Ramkasiz) */}
+         
             <div className="bg-[#f7f9fa] p-8 md:p-10 rounded-sm leading-[1.6]">
                 <p className="mb-6 text-[15px] text-[#4a5568]">
                     Настоящая Политика конфиденциальности и обработки персональных данных
@@ -98,7 +98,7 @@ const PrivacyPolicy = () => {
 
 
             <div className="max-w-[1200px] mx-auto p-4 font-sans text-[#2d3748] bg-white">
-                {/* 3. ПРЕДМЕТ ПОЛИТИКИ КОНФИДЕНЦИАЛЬНОСТИ */}
+           
 
                 <h2 className="text-[18px] font-bold mb-6 text-black uppercase tracking-tight">
                     3. ПРЕДМЕТ ПОЛИТИКИ КОНФИДЕНЦИАЛЬНОСТИ
@@ -253,7 +253,7 @@ const PrivacyPolicy = () => {
 
 
             <section className="max-w-4xl mx-auto p-6 text-gray-800 leading-relaxed">
-                {/* Sarlavha - 5-bo'lim bilan bir xil uslubda */}
+              
                 <h2 className="text-xl font-bold mb-6 uppercase">
                     6. ПРАВА И ОБЯЗАННОСТИ СТОРОН
                 </h2>
@@ -316,7 +316,7 @@ const PrivacyPolicy = () => {
                         <strong>6.3.9.</strong> Уничтожить персональные данные в случае подтверждения факта их сбора, обработки с нарушением законодательства Республики Казахстан, а также в иных случаях, установленных Законом.
                     </p>
 
-                    {/* 6.4 bo'lim */}
+               
                     <p><strong>6.4.</strong> Товарищество вправе:</p>
 
                     <p>
@@ -328,7 +328,7 @@ const PrivacyPolicy = () => {
 
 
             <section className="max-w-4xl mx-auto p-6 text-gray-800 leading-relaxed">
-                {/* 7-bo'lim - buni o'z holicha qoldirdim */}
+           
                 <h2 className="text-xl font-bold mb-6 uppercase">
                     7. ОТВЕТСТВЕННОСТЬ СТОРОН
                 </h2>
@@ -373,7 +373,7 @@ const PrivacyPolicy = () => {
 
 
             <section className="max-w-4xl mx-auto p-6 text-gray-800 leading-relaxed">
-                {/* 9-bo'lim - Sarlavha yana bo'rtgan (font-bold) holatda */}
+
                 <h2 className="text-xl font-bold mb-6 uppercase">
                     9. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ
                 </h2>
